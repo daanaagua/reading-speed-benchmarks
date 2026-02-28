@@ -1,0 +1,17 @@
+group,genre_id,genre_label,default_wpm,speed_band,notes
+fiction,fiction-literary,Literary Fiction,240,moderate,Dense prose and metaphor can slow pacing.
+fiction,fiction-fantasy,Fantasy,220,moderate,World-building terms increase decoding load.
+fiction,fiction-scifi,Science Fiction,225,moderate,Technical vocabulary and concepts reduce speed.
+fiction,fiction-mystery,Mystery-Thriller,260,fast,Plot-driven and dialogue-heavy structure.
+fiction,fiction-romance,Romance,270,fast,Readable sentence structure and frequent dialogue.
+fiction,fiction-web,Web Fiction-Light Novel,290,fast,Simple vocabulary and fast pacing.
+nonfiction,nonfiction-news,News Articles,270,fast,Clear structure and familiar language patterns.
+nonfiction,nonfiction-essay,Essays-Opinion,230,moderate,Argumentative structure needs active processing.
+nonfiction,nonfiction-biography,Biography-Memoir,250,moderate,Narrative nonfiction with moderate complexity.
+nonfiction,nonfiction-popular-science,Popular Science,220,moderate,Concept density slows comprehension speed.
+academic,academic-humanities,Humanities-Academic,150,careful,Dense argument and references require rereading.
+academic,academic-social-science,Social Sciences,130,careful,Methods and tables increase cognitive load.
+academic,academic-stem,STEM Papers,100,deep,Equations and notation significantly reduce pace.
+professional,professional-business,Business Reports,190,careful,Structured but information dense.
+professional,professional-legal,Legal Documents,70,deep,Precision requirements force very slow reading.
+professional,professional-technical,Technical Documentation,80,deep,Reference-style reading is often non-linear.
