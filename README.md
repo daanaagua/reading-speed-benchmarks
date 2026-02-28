@@ -24,6 +24,8 @@ This project keeps a transparent benchmark table so users can:
 - `data/benchmarks.csv` - Genre-level default WPM values.
 - `docs/methodology.md` - Modeling assumptions, formula, and source notes.
 - `docs/examples.md` - Worked conversion examples.
+- `CONTRIBUTING.md` - Contribution workflow and data update rules.
+- `LICENSE` - MIT license for repository content.
 
 ## Quick formula
 
